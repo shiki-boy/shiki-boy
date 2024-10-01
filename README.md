@@ -16,7 +16,6 @@ I am a seasoned full stack developer with 4+ years of experience in crafting web
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shiki-boy&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiki-boy&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <br>
 
