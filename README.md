@@ -1,3 +1,5 @@
+![img](https://github.com/shiki-boy/shiki-boy/blob/main/GCJamIka4AArMAv.jpg)
+
 # 💫 About Me:
 I am a seasoned full stack developer with 4+ years of experience in crafting web applications using Django, ReactJS, VueJS, and NodeJS. I excel in building deployment pipelines and thrive in fast-paced, deadline-driven environments.
 
