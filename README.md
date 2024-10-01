@@ -21,7 +21,6 @@ I am a seasoned full stack developer with 4+ years of experience in crafting web
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___shiki_boy____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-kaushik) 
 
----
 [![](https://visitcount.itsvg.in/api?id=shiki-boy&icon=3&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
